@@ -1,4 +1,4 @@
-import { clearForm, setFormButtonState, areAllFieldsValid } from "./utilities.js";
+import { setFormButtonState } from "./utilities.js";
 // Поля ввода
 export const firstNameInput = document.getElementById('first-name');
 export const lastNameInput = document.getElementById('last-name');
