@@ -28,7 +28,6 @@ firstNameInput.addEventListener('input', () => {
     firstNameInput.classList.add('valid');
   }
 
-
   setFormButtonState();
 });
 
